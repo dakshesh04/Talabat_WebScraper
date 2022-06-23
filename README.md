@@ -12,7 +12,7 @@ Restaurant.json : Stores the details of the restaurants
 
 menu_list.json: Stores the menu details of all the restaurants, in the data file.
 
-restaurant.csv: CSV file which contains the restaurant details, after data cleanup and some slight modifications
+cms_scrape.csv: CSV file which contains the restaurant details, for both sample data and experimental data, grouped together
 
 menu.csv: CSV file which contains the menu details, after being extracted from the json and arranged properly.
 
