@@ -1,0 +1,61 @@
+{
+  "name": "Gino's Deli",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/logo_-_2021-11-23T17_637732788146540497.jpg?width=180",
+  "latitude": "25.0648583638963",
+  "longitude": "55.1383772692595",
+  "cuisine_tags": "Sandwiches, Pasta, Italian"
+}{
+  "name": "Pasta Della Nonna",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/Logos_PastaDellaNonna_Sec637794192311679134.jpg?width=180",
+  "latitude": "25.0651332",
+  "longitude": "55.13827815",
+  "cuisine_tags": "Italian, Pasta, Salad"
+}{
+  "name": "Pizzaro",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/pizzaro_logo_2_(500x_637901901529791866.jpg?width=180",
+  "latitude": "25.083309",
+  "longitude": "55.146559",
+  "cuisine_tags": "Italian, Pizza, Pasta"
+}{
+  "name": "The Pasta Guyz",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/ThePastaGuyz-Logo_637563263478806436.jpg?width=180",
+  "latitude": "25.0737758910733",
+  "longitude": "55.1322831934299",
+  "cuisine_tags": "Italian, Pasta"
+}{
+  "name": "Pizza Di Rocco",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/PDR_WineRed_Logo_637661895331887248.jpg?width=180",
+  "latitude": "25.0650915",
+  "longitude": "55.1387907",
+  "cuisine_tags": "Pizza, Pasta, Italian"
+}{
+  "name": "China Garden",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/CG_634879852809332125.jpg?width=180",
+  "latitude": "25.184474",
+  "longitude": "55.238317",
+  "cuisine_tags": "Chinese, Seafood"
+}{
+  "name": "Ketchup & Mustard",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/Ketchup_and_Mustard_636128983577241480.jpg?width=180",
+  "latitude": "24.4783752109425",
+  "longitude": "54.3587652134026",
+  "cuisine_tags": "American, Burgers, Street food"
+}{
+  "name": "Mama's Pasta By WeDallas",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/logo_(58)_6374105550_637412141450544237.png?width=180",
+  "latitude": "25.3646770655014",
+  "longitude": "55.4063057288361",
+  "cuisine_tags": "Italian, Pizza, Pasta"
+}{
+  "name": "Aroos Al Nile Restaurant",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/aroos_al_nile__logo__636997152092827385.jpg?width=180",
+  "latitude": "25.4029515199385",
+  "longitude": "55.4426522625656",
+  "cuisine_tags": "Seafood, Egyptian"
+}{
+  "name": "Makhmakha Cafe",
+  "logo": "https://images.deliveryhero.io/image/talabat/restaurants/LOGO_(1)_(1)_637345624827879709.jpg?width=180",
+  "latitude": "24.4008536252598",
+  "longitude": "54.7329628041644",
+  "cuisine_tags": "Cafe, Desserts, Beverages"
+}
