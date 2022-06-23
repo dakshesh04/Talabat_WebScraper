@@ -1,6 +1,9 @@
 # Talabat_WebScraper
 A web scraper for the details and menu of various restaurants featured on talabat.com
 
+Program: Source.py - python file, Source.ipynb - jupyter notebook
+
+
 Files: 
 Input:
 sample_data.json: Existing sample restaurant url links which need to be scraped 
